@@ -21,7 +21,7 @@ HOME
 - Crear ubicación.
 - Filtrar en nuestra lista.
 (Nombre o Categoría).
-- Acceder a la inÿormación.
+- Acceder a la información.
 
 Map
 - GoogleMaps (Api key, permisos de
@@ -29,6 +29,6 @@ localización y habilitar Api
 Console).
 
 Subir archivos
-- Guardar y edita tus imáĀenes en
+- Guardar y edita tus imágenes en
 firebase.
 - Comparte tu ubicación.

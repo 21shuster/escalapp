@@ -27,3 +27,8 @@ Map
 - GoogleMaps (Api key, permisos de
 localización y habilitar Api
 Console).
+
+Subir archivos
+- Guardar y edita tus imáĀenes en
+firebase.
+- Comparte tu ubicación.
